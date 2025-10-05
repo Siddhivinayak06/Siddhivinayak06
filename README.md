@@ -35,6 +35,10 @@ Welcome to my GitHub! I’m a passionate developer working on **full-stack, AI, 
 
 ![Siddhivinayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siddhivinayak06&show_icons=true&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhivinayak06&layout=compact&theme=radical)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Siddhivinayak06&style=flat-square)
+
 ---
 
 ## 🌱 Currently Learning
