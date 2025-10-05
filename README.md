@@ -51,7 +51,7 @@ Welcome to my GitHub! I’m a passionate developer working on **full-stack, AI, 
 
 ## 📫 Contact Me
 
-- Email: siddhivinayak@example.com  
+- Email: siddhivinayaksawant04@gmail.com  
 - LinkedIn: [linkedin.com/in/siddhivinayaksawant](https://www.linkedin.com/in/siddhivinayaksawant)  
 
 > "Strive to build things that make a difference." 💡
