@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi there 👋, I'm Siddhivinayak Sawant
 
-<!--
-**Siddhivinayak06/Siddhivinayak06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I’m a passionate developer working on **full-stack, AI, IoT, and mobile app projects**. I love creating practical solutions and experimenting with new technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+
+- **Languages:** Java, Python, JavaScript, TypeScript, HTML, CSS  
+- **Web & Backend:** Next.js, Node.js, Express.js  
+- **Databases:** Firebase, MySQL, MongoDB  
+- **Mobile & IoT:** Android Development, IoT Integration  
+- **DevOps & Tools:** Git, Docker, GitHub Actions  
+- **AI & ML:** TensorFlow, PyTorch  
+
+---
+
+## 💼 Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| MySOS | Personal SOS alert and safety app | Java, Android |
+| Siddhivinayak06 | Portfolio & utility projects | JavaScript |
+| Ai-HealthCare | AI-powered healthcare assistant | JavaScript |
+| CodeGuard | Online code execution & auto-checking | TypeScript |
+| AI-Nutrient-Analyzer | Nutritional analysis with AI | TypeScript |
+| Hey-Sara | Personal website project | HTML |
+| Mahatourism | Tourism website project | JavaScript |
+| Grocery-app | Online grocery shopping app | JavaScript |
+| Virtual-Banking-System | Banking system simulation | Java |
+
+---
+
+## 📈 GitHub Stats
+
+![Siddhivinayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siddhivinayak06&show_icons=true&theme=radical)
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced AI & ML applications  
+- Real-time collaborative web apps  
+- Cloud deployment using Docker & Kubernetes  
+
+---
+
+## 📫 Contact Me
+
+- Email: siddhivinayak@example.com  
+- LinkedIn: [linkedin.com/in/siddhivinayaksawant](https://www.linkedin.com/in/siddhivinayaksawant)  
+
+> "Strive to build things that make a difference." 💡
