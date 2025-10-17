@@ -8,7 +8,7 @@ Welcome to my GitHub! I’m a passionate developer working on **full-stack, AI, 
 
 - **Languages:** Java, Python, JavaScript, TypeScript, HTML, CSS  
 - **Web & Backend:** Next.js, Node.js, Express.js  
-- **Databases:** Firebase, MySQL, MongoDB  
+- **Databases:** Firebase, MySQL, MongoDB, PostgreSql, Supabase  
 - **Mobile & IoT:** Android Development, IoT Integration  
 - **DevOps & Tools:** Git, Docker, GitHub Actions  
 - **AI & ML:** TensorFlow, PyTorch  
