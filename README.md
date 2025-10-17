@@ -2,6 +2,8 @@
 
 Welcome to my GitHub! I’m a passionate developer working on **full-stack, AI, IoT, and mobile app projects**. I love creating practical solutions and experimenting with new technologies.
 
+Check out **[My Portfolio](https://portfolio-sepia-zeta-36.vercel.app)** 🌐
+
 ---
 
 ## 🔧 Technologies & Tools
