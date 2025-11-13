@@ -21,8 +21,6 @@ Check out **[My Portfolio](https://portfolio-sepia-zeta-36.vercel.app)** 🌐
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| MySOS | Personal SOS alert and safety app | Java, Android |
-| Siddhivinayak06 | Portfolio & utility projects | JavaScript |
 | Ai-HealthCare | AI-powered healthcare assistant | JavaScript |
 | CodeGuard | Online code execution & auto-checking | TypeScript |
 | AI-Nutrient-Analyzer | Nutritional analysis with AI | TypeScript |
