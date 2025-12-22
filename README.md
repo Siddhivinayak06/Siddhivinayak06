@@ -21,7 +21,7 @@ Check out **[My Portfolio](https://portfolio-sepia-zeta-36.vercel.app)** 🌐
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| Ai-HealthCare | AI-powered healthcare assistant | JavaScript |
+| Ai-HealthCare | AI-powered healthcare assistant | TypeScript |
 | CodeGuard | Online code execution & auto-checking | TypeScript |
 | AI-Nutrient-Analyzer | Nutritional analysis with AI | TypeScript |
 | Hey-Sara | Personal website project | HTML |
