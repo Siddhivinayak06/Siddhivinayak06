@@ -1,72 +1,59 @@
-# Hi there 👋, I'm Siddhivinayak Sawant  
+<div align="center">
 
-🚀 **AI-Driven Full-Stack Developer**  
-🎓 Fr. C. Rodrigues Institute of Technology (FCRIT), Navi Mumbai  
+# Hi there 👋, I'm Siddhivinayak Sawant
 
-I’m a passionate developer who enjoys building **real-world, scalable applications** using modern web technologies and **AI-driven solutions**.  
-I love solving problems, experimenting with new technologies, and shipping meaningful products.
+### 🚀 AI-Driven Full-Stack Developer
+🎓 *Fr. C. Rodrigues Institute of Technology (FCRIT), Navi Mumbai*
 
-🌐 **Portfolio:** https://portfolio-sepia-zeta-36.vercel.app  
+[🌐 Portfolio](https://portfolio-sepia-zeta-36.vercel.app) • [👔 LinkedIn](https://www.linkedin.com/in/siddhivinayaksawant) • [📧 Email](mailto:siddhivinayaksawant04@gmail.com)
+
+---
+
+### 💡 About Me
+I’m a passionate developer building **real-world, scalable applications** using modern web technologies and **AI-driven solutions**. I love solving complex problems and shipping meaningful products.
+
+🔭 I’m currently working on **AI-HealthCare**
+<br />
+🌱 I’m currently learning **Cloud-Native Deployment & Advanced ML**
+<br />
+💬 Ask me about **Next.js, Java, and AI Integration**
+
+</div>
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-Java • Python • JavaScript • TypeScript • HTML • CSS  
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### 🌐 Web & Backend
-Next.js • Node.js • Express.js  
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🗄️ Databases
-PostgreSQL • MySQL • MongoDB • Firebase • Supabase  
+### 🗄️ Databases & Cloud
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### ⚙️ DevOps & Tools
-Git • Docker • GitHub Actions  
-
-### 🤖 AI & Machine Learning
-TensorFlow • PyTorch  
+### ⚙️ DevOps & AI Tools
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech |
-|-------|------------|------|
-| **AI-HealthCare** | AI-based healthcare diagnostics and disease prediction platform | TypeScript, AI |
-| **CodeGuard** | Secure online code execution and automated evaluation system | TypeScript |
-| **AI-Nutrient-Analyzer** | AI-powered nutrition analysis system | TypeScript |
-| **Hey-Sara** | Personal portfolio website | HTML, CSS |
-| **MahaTourism** | Tourism planning and booking platform | JavaScript |
-| **Grocery-App** | Online grocery shopping system | JavaScript |
-| **Virtual-Banking-System** | Banking system simulation using core OOP concepts | Java |
+| Project | Description | Tech Stack |
+|:---|:---|:---|
+| **[AI-HealthCare](ai-health-care-five.vercel.app)** | AI-based diagnostics and disease prediction platform. | `Next.js` `Python (Flask)` `TensorFlow` |
+| **[CodeGuard](code-guard-alpha.vercel.app)** | Secure online code execution & automated evaluation system. | `TypeScript` `Node.js` `Docker` |
+| **[AI-Nutrient-Analyzer](ai-nutrient-analyzer.vercel.app)** | AI-powered nutrition analysis system. | `React` `TensorFlow.js` `OpenCV` |
+| **[Hey-Sara](siddhivinayak06.github.io/Hey-Sara/)** | Personal portfolio website showcasing projects. | `HTML5` `CSS3` `JavaScript` |
+| **[MahaTourism](#)** | Tourism planning and booking platform for Maharashtra. | `JavaScript` `Express.js` `MongoDB` |
+| **[Grocery-App](#)** | Online grocery shopping system. | `JavaScript` `SQL` `PHP` |
+| **[Virtual-Banking](#)** | Banking system simulation using core OOP concepts. | `Java` `Swing` `MySQL` |
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhivinayak06&layout=compact&theme=radical" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Siddhivinayak06&style=flat-square"/>
-</p>
-
----
-
-## 🌱 Currently Learning
-- Advanced AI & ML applications  
-- Real-time collaborative web applications  
-- Cloud-native deployment with Docker & Kubernetes  
-
----
-
-## 📫 Connect With Me
-
-📧 **Email:** siddhivinayaksawant04@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/siddhivinayaksawant  
-
----
-
-> 💡 *“Strive to build things that make a difference.”*
+<div align="center">
+  <blockquote>
+    💡 <i>“Strive to build things that make a difference.”</i>
+  </blockquote>
+</div>
