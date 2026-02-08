@@ -54,6 +54,31 @@ I’m a passionate developer building **real-world, scalable applications** usin
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" align="center" src="https://github-readme-stats-lilac-theta-40.vercel.app/api?username=Siddhivinayak06&show_icons=true&theme=radical" alt="Siddhivinayak's Stats" />
+  </a>
+  
+  &nbsp; &nbsp; &nbsp;
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" align="center" src="https://github-readme-stats-lilac-theta-40.vercel.app/api/top-langs/?username=Siddhivinayak06&layout=compact&theme=radical" alt="Top Languages" />
+  </a>
+
+  <br />
+  <br />
+
+  <a href="https://git.io/streak-stats">
+    <img height="180" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Siddhivinayak06&theme=radical" alt="GitHub Streak" />
+  </a>
+
+</div>
+
+---
+
 <div align="center">
   <blockquote>
     💡 <i>“Strive to build things that make a difference.”</i>
