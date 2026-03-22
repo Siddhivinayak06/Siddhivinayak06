@@ -5,7 +5,7 @@
 ### 🚀 AI-Driven Full-Stack Developer
 🎓 *Fr. C. Rodrigues Institute of Technology (FCRIT), Navi Mumbai*
 
-[🌐 Portfolio](https://portfolio-sepia-zeta-36.vercel.app) • [👔 LinkedIn](https://www.linkedin.com/in/siddhivinayaksawant) • [📧 Email](mailto:siddhivinayaksawant04@gmail.com)
+[🌐 Portfolio](https://portfolio-siddhivinayak.vercel.app) • [👔 LinkedIn](https://www.linkedin.com/in/siddhivinayaksawant) • [📧 Email](mailto:siddhivinayaksawant04@gmail.com)
 
 ---
 
