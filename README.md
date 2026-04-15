@@ -45,6 +45,7 @@ I’m a passionate developer building **real-world, scalable applications** usin
 | **[CodeGuard](https://code-guard-alpha.vercel.app)** | Secure online code execution & automated evaluation system. | `TypeScript` `Node.js` `Docker` |
 | **[AI-HealthCare](https://ai-health-care-five.vercel.app)** | AI-based diagnostics and disease prediction platform. | `Next.js` `Python (Flask)` `TensorFlow` |
 | **[ZenWeb](https://github.com/Siddhivinayak06/Zenweb)** | AI-powered Chrome extension for distraction-free reading & focus. | `JavaScript` `Gemini AI` `Supabase` |
+| **[AlgoLab](https://github.com/Siddhivinayak06/AlgoLab.git)** | AlgoLab visualizes and benchmarks algorithms. | `Next.js` `TypeScript` `Node.js` `MongoDB`  |
 | **[Swish](#)** | Private social sharing platform for campus communities. | `React` `Node.js` `MongoDB` `Tailwind` |
 | **[AI-Nutrient-Analyzer](https://ai-nutrient-analyzer.vercel.app)** | AI-powered nutrition analysis system. | `React` `TensorFlow.js` `OpenCV` |
 | **[Hey-Sara](https://siddhivinayak06.github.io/Hey-Sara/)** | Personal portfolio website showcasing projects. | `HTML5` `CSS3` `JavaScript` |
